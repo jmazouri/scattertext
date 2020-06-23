@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/JasonKessler/scattertext.svg?branch=master)](https://travis-ci.org/JasonKessler/scattertext)
-[![PyPI](https://img.shields.io/pypi/v/scattertext.svg)]()
+[![PyPI](https://img.shields.io/pypi/v/scattertext.svg)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjmazouri%2Fscattertext.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjmazouri%2Fscattertext?ref=badge_shield)
+()
 [![Gitter Chat](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/scattertext/Lobby)
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/jasonkessler)
 
@@ -2376,3 +2377,6 @@ In order for the visualization to work, set the `asian_mode` flag to `True` in
 * Rada Mihalcea, Paul Tarau. TextRank: Bringing Order into Text. EMNLP. 2004.
 * Frimer, J. A., Boghrati, R., Haidt, J., Graham, J., & Dehgani, M. Moral Foundations Dictionary for Linguistic Analyses 2.0. Unpublished manuscript. 2019.
 * Jesse Graham, Jonathan Haidt, Sena Koleva, Matt Motyl, Ravi Iyer, Sean P Wojcik, and Peter H Ditto. 2013. Moral foundations theory: The pragmatic validity of moral pluralism. Advances in Experimental Social Psychology, 47, 55-130
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjmazouri%2Fscattertext.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjmazouri%2Fscattertext?ref=badge_large)
